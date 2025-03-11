@@ -1,2 +1,24 @@
-# bis-sample
-"Real-time Bus Information System (BIS) providing live arrival times for buses with an intuitive and responsive web interface"
+# 버스 도착정보 시스템 (BIS)
+
+실시간으로 버스 도착 정보를 제공하는 직관적이고 반응형 웹 인터페이스
+
+## 소개
+
+이 프로젝트는 공공데이터 포털의 버스 정보 API를 활용하여 실시간 버스 도착 정보를 제공하는 웹 서비스입니다. 사용자 친화적인 인터페이스로 버스 이용객들에게 편리한 정보를 제공합니다.
+
+## 주요 기능
+
+- 실시간 버스 도착 정보 표시
+- 상행/하행 노선 정보 구분 표시
+- 현재 시간 및 날짜 표시
+- 원클릭 새로고침 기능
+- 모바일/데스크톱 반응형 디자인
+- 곧 도착하는 버스 강조 표시
+
+## 사용된 기술
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Font Awesome 아이콘
+- 공공데이터 포털 버스정보 API
